@@ -19,8 +19,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
+      <a href="https://youtube.com/@iotech4533?si=dv4T8VR4wFMWpm6v" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40IoTech&subtitle=@IoTech&size=square" alt="IoTech">
       </a>
     </td>
     <td align="center">
