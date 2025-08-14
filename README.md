@@ -54,8 +54,13 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Electronics Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+I’m an Electronics and Telecommunication Engineering (ENTC) graduate with a solid foundation in programming and a passion for building smart solutions. My coding journey started early, and over time I’ve gained experience in:
 
+C & C++ — for system-level programming, data structures, and algorithms
+Python — for scripting, automation, and data manipulation
+MATLAB — for simulations, signal processing, and engineering analysis
+
+💡 I enjoy diving into hands-on projects that merge hardware with software—whether it’s simulating communication systems, automating workflows, or working with embedded systems. I’m always exploring new tools and technologies, continuously learning and refining my skills.
 <h3 align="center">Git Stats</h3>
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=RahulVibhute45&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
