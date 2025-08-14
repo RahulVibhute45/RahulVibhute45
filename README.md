@@ -172,11 +172,11 @@ MATLAB — for simulations, signal processing, and engineering analysis
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+    <a href="https://www.instagram.com/rahul_vibhue_45t/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/rahul_vibhute_45/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
@@ -235,12 +235,9 @@ MATLAB — for simulations, signal processing, and engineering analysis
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
+[![Youtube stats]https://studio.youtube.com/channel/UCeFMkW3e7_blofhI0O7f9dw/analytics/tab-overview/period-default
 
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/RahulVibhute45h2272?border=0&radius=20"/>
-</p>
+
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
@@ -349,12 +346,7 @@ MATLAB — for simulations, signal processing, and engineering analysis
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
+      
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
       </td>
