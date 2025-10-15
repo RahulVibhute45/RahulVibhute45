@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="www.linkedin.com/in/rahul-vibhute-372994267" target="_blank">
+      <a href=www.linkedin.com/in/rahul-vibhute-372994267 target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rahul+Vibhute&size=square" alt="Rahul_Vibhute_45">
       </a>
     </td>
